@@ -31,3 +31,5 @@ print(x) # 6
 
 # >>> help(print)
 # >>> dir(print)
+
+# PEP 8 Style guide
